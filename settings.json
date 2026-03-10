@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": ""
+    "ip": "andbancut.aternos.me",
+    "port": 19625,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
